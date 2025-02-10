@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SchedulePulse</string>
+    <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
 </resources>
